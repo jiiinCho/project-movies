@@ -4,7 +4,7 @@ This week project was done by Sherin and Kyung-jin-cho. The assignment to create
 
 ## The problem
 
-Describe how you approached to problem, and what tools and techniques you used to solve it. How did you plan? What technologies did you use? If you had more time, what would be next?
+The challenge was to fetch data by asynchronous calls and tried to render a component before requested data is received. Then the browser gives back compile error. We solved the issue by applying conditional operator and make react to render only when the data is not undefined :) 
 
 ## View it live
 https://movies-site-js.netlify.app
